@@ -1,5 +1,0 @@
-1. I think the ability to rank stocks is a direct manifesto of the classification success rate. When I check the number of stocks with actual positive returns and the number of stocks with actual negative returns from the top 100 stocks with positive predicted returns, the numbers are often close to 60:40 which is close to the overall classification rate. This partially explains why I am able to form portfolios by ranking them by the predicted returns and also explains why I have to use a group of stocks and check their average returns.
-
-Very often the stocks in the middle of the ranking have poorer classification success rates and this explains why portfolios formed out of those stocks have unstable and more unpredictable actual averaged returns.
-
-Obviously, the classification success rate is only part of the story. The predicted returns have also captured the magnitude of a stock's actual return. Those stocks at the two ends of the ranking do tend to exhibit more significant positive or negative returns.
